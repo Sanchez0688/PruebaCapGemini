@@ -1,0 +1,22 @@
+[
+  {
+    "Name": "Nuevo perfil",
+    "Projects": [
+      {
+        "Name": "col.Backend\\col.Backend.csproj",
+        "Action": "Start",
+        "DebugTarget": "https"
+      },
+      {
+        "Name": "col.Shared\\col.Shared.csproj",
+        "Action": "StartWithoutDebugging",
+        "DebugTarget": "col.Shared"
+      },
+      {
+        "Name": "col.Test\\col.Test.csproj",
+        "Action": "Start",
+        "DebugTarget": "col.Test"
+      }
+    ]
+  }
+]

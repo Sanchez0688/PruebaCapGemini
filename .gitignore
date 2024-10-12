@@ -1,0 +1,14 @@
+
+/CoreProductosApi/.vs
+/CoreProductosApi/src/.vs
+/node-productos-restapi/node_modules
+dist
+.env
+/CoreProductosApi/col.Backend/bin/Debug/net8.0
+/CoreProductosApi/col.Backend/obj
+/CoreProductosApi/col.Shared/bin/Debug/net8.0
+/CoreProductosApi/col.Shared/obj
+/CoreProductosApi/col.Test/bin/Debug/net8.0
+/CoreProductosApi/col.Test/obj
+
+
