@@ -7,10 +7,10 @@
 ## API REST .NET CORE
 
 
-2- Ir a la ruta "\CoreProductosApi\col.Backend\appsettings.json" y modificar el LocalConnection incluyendo los datos de la Base de datos Local
-3- Ir a la ruta "\CoreProductosApi\col.Test\ProductTest.cs" y modificar nuevamente la coneccion a la Base de datos en la linea 31 
-4- Ejecutar como proyecto de inicio el col.Backend se le abrira el navegador para pruebas por Swagger
-8- Para poder ejecutar las pruebas se debe detener proyecto col.Backend y debes dirigirte al col.Test 
+2- Ir a la ruta ```\CoreProductosApi\col.Backend\appsettings.json``` y modificar el LocalConnection incluyendo los datos de la Base de datos Local
+3- Ir a la ruta ```\CoreProductosApi\col.Test\ProductTest.cs``` y modificar nuevamente la coneccion a la Base de datos en la linea 31 
+4- Ejecutar como proyecto de inicio el ```col.Backend``` se le abrira el navegador para pruebas por Swagger
+8- Para poder ejecutar las pruebas se debe detener proyecto ```col.Backend``` y debes dirigirte al ```col.Test```
 
 ## API REST NODEJS 
 
