@@ -1,6 +1,6 @@
 # PruebaCapGemini
 
-##DATABASE
+## DATABASE
 
 1- Ejecutar el archivo scriptDatabase.sql dentro de SQL Server
 
